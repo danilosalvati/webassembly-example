@@ -1,0 +1,7 @@
+.idea
+hello/*
+hello-minimal/*
+!hello/hello.c
+!hello/README.md
+!hello-minimal/hello.c
+!hello-minimal/hello-minimal.html

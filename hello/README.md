@@ -1,0 +1,1 @@
+RUN emcc hello.c -s WASM=1 -o hello.html to build hello.html page
